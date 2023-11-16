@@ -1,6 +1,4 @@
-<h4 align="center">
-Sentiment Assessment Tool
-</h4>
+## Sentiment Assessment Tool
 
 ## Project Overview
 A sentiment assessment tool implemented with an NLP model trained with GoogleNews Vectors Negative300 Dataset.
